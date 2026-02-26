@@ -1,7 +1,6 @@
 class Solution {
 
     public String multiply(String num1, String num2) {
-
         if(num1.equals("0") || num2.equals("0"))
             return "0";
 
@@ -29,7 +28,6 @@ class Solution {
         }
 
         StringBuilder sb = new StringBuilder();
-
         for(int num : result){
             if(!(sb.length() == 0 && num == 0)){
                 sb.append(num);
