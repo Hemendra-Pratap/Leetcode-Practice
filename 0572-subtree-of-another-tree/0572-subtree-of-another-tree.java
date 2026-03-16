@@ -27,19 +27,16 @@ class Solution {
         if(!isIdentical(node.right, subRoot.right)){
             return false;
         }
-
+        
         return true;
     }
     public boolean isSubtree(TreeNode root, TreeNode subRoot) {
         if(root == null) return false;
-
-        
         if(root.val == subRoot.val){
             if(isIdentical(root, subRoot)){
                 return true;
             }
         }
-
         return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
     }
 }
