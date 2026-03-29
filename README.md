@@ -85,4 +85,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->
