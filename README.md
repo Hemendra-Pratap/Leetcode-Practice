@@ -9,6 +9,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -25,6 +26,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search
@@ -41,6 +43,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
