@@ -31,7 +31,6 @@ class Solution {
                 if(curr.right!=null) q.add(curr.right);
             }
             res.add(max);
-            max = Integer.MIN_VALUE;
         }
 
         return res;
