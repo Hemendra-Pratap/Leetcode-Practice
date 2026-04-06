@@ -13,6 +13,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -38,6 +39,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -57,12 +59,14 @@
 | [0101-symmetric-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0038-count-and-say](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
+| [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
@@ -106,4 +110,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0007-reverse-integer/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
