@@ -18,6 +18,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -29,6 +30,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -46,6 +48,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -68,6 +71,7 @@
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
