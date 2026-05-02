@@ -110,6 +110,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Dynamic Programming
@@ -159,4 +160,8 @@
 | ------- | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
