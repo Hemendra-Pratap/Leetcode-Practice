@@ -10,6 +10,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -44,6 +45,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -103,6 +105,7 @@
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0665-non-decreasing-array/) | Medium |
@@ -132,6 +135,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -158,6 +162,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Linked List
