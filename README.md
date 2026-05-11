@@ -23,6 +23,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -59,6 +60,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Binary Search
@@ -84,6 +86,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0965-univalued-binary-tree/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -100,6 +103,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -168,6 +172,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
