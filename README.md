@@ -73,6 +73,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,12 +123,14 @@
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0665-non-decreasing-array/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +157,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
