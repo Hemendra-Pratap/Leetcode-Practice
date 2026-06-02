@@ -123,6 +123,7 @@
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0665-non-decreasing-array/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
