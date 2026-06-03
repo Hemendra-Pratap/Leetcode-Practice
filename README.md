@@ -100,6 +100,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0038-count-and-say](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
+| [0459-repeated-substring-pattern](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
