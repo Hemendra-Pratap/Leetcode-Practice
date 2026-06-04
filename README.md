@@ -166,6 +166,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0007-reverse-integer/) | Medium |
+| [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 <!---LeetCode Topics End-->
