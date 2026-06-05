@@ -201,4 +201,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0584-find-customer-referee](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0584-find-customer-referee/) | Easy |
 <!---LeetCode Topics End-->
