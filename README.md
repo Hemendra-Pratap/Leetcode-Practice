@@ -129,6 +129,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -199,6 +200,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
