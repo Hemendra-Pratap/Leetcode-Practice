@@ -216,6 +216,7 @@
 | [0620-not-boring-movies](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1148-article-views-i/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1527-patients-with-a-condition/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Simulation
