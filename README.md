@@ -210,6 +210,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0182-duplicate-emails/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0595-big-countries](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0595-big-countries/) | Easy |
