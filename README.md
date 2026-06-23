@@ -123,6 +123,7 @@
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0665-non-decreasing-array/) | Medium |
@@ -236,6 +237,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
