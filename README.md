@@ -190,6 +190,7 @@
 | [0007-reverse-integer](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0007-reverse-integer/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
