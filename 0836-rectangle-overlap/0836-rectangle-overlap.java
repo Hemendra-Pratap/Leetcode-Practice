@@ -1,10 +1,13 @@
 class Solution {
-
-    public boolean isRectangleOverlap(int[] rect1, int[] rect2) {
-
-        if (rect1[2]>rect2[0] && rect2[2]>rect1[0] && rect1[3]>rect2[1] && rect2[3]>rect1[1]) {
-            return true;
+    public boolean isRectangleOverlap(int[] rec1, int[] rec2) {
+        // left to right 
+        if(rec1[2]>rec2[0] && rec2[2]>rec1[0]){
+            //top to bottom 
+            if(rec2[3] > rec1[1] && rec1[3] > rec2[1]){
+                return true;
+            }
         }
+
 
         return false;
     }
