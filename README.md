@@ -103,6 +103,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0038-count-and-say](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
+| [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -151,6 +152,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -163,6 +165,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
