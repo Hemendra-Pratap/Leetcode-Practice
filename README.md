@@ -75,6 +75,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0704-binary-search](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
 |  |
@@ -136,6 +137,7 @@
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0665-non-decreasing-array/) | Medium |
+| [0704-binary-search](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
