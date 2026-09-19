@@ -12,6 +12,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -52,6 +53,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -87,6 +89,7 @@
 | [0100-same-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Monotonic Stack
 |  |
@@ -228,6 +232,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Greedy
 |  |
