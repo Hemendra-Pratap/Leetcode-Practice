@@ -1,18 +1,22 @@
 class Solution {
-    public static void help(int idx, int[] arr, ArrayList<List<Integer>> res, ArrayList<Integer> list){
-        if(idx == arr.length){
-            res.add(new ArrayList<>(list));
+    public void solve(int[] nums, List<List<Integer>> res, List<Integer> list, int i){
+        if(i == nums.length){
+            res.add(new ArrayList(list));
             return;
         }
-        list.add(arr[idx]);
-        help(idx+1, arr, res, list);
-        list.remove(list.size() - 1); 
-        help(idx+1, arr, res, list);
+        // int curr = nums[i];
+        // pick / include 
+        list.add(nums[i]);
+        solve(nums, res, list, i+1);
+
+        // not pick , exclude 
+        list.remove(list.size()-1);
+        solve(nums, res, list, i+1);
     }
     public List<List<Integer>> subsets(int[] nums) {
-        ArrayList<List<Integer>> res = new ArrayList<>();
-        ArrayList<Integer> list = new ArrayList<>();
-        help(0, nums, res, list);
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        solve(nums, res, list, 0);
         return res;
     }
 }
