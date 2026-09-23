@@ -136,6 +136,7 @@
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -212,6 +213,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 ## Sliding Window
