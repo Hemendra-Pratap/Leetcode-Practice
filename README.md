@@ -108,6 +108,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -309,4 +312,5 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
