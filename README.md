@@ -114,6 +114,7 @@
 | [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -180,6 +181,7 @@
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -189,6 +191,7 @@
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -251,6 +254,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -313,4 +317,5 @@
 | [0020-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
