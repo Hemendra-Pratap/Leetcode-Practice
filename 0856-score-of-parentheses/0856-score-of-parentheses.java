@@ -9,10 +9,11 @@ class Solution {
                     st.push(1);
                 }else{
                     int val = 0;
-                    while(st.peek() != -1){
+                    while(st.peek()!=-1){
                         val += st.peek();
                         st.pop();
                     }
+
                     st.pop();
                     st.push(2*val);
                 }
