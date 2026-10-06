@@ -116,6 +116,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -195,6 +196,7 @@
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -324,6 +327,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Queue
 |  |
 | ------- |
