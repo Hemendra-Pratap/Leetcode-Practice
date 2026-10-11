@@ -162,6 +162,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
@@ -313,6 +314,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1291-sequential-digits/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
