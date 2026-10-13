@@ -111,6 +111,7 @@
 | [0022-generate-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0038-count-and-say/) | Medium |
+| [0242-valid-anagram](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 | [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0459-repeated-substring-pattern/) | Easy |
@@ -131,6 +132,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -223,6 +225,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
