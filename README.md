@@ -239,6 +239,7 @@
 | [0836-rectangle-overlap](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
@@ -282,6 +283,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
