@@ -171,6 +171,7 @@
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -232,6 +233,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Math
 |  |
 | ------- |
@@ -365,4 +367,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
