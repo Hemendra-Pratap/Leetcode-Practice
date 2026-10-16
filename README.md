@@ -125,6 +125,7 @@
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Function
 |  |
 | ------- |
@@ -234,6 +235,7 @@
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
