@@ -189,6 +189,7 @@
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -244,6 +245,7 @@
 | [0836-rectangle-overlap](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
@@ -379,4 +381,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
