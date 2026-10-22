@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -151,6 +152,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0078-subsets) |
