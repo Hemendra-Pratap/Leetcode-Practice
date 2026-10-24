@@ -127,6 +127,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -253,6 +254,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
