@@ -7,7 +7,7 @@ class Solution {
                 temp=temp&nums [i];
             }
         }
-        if(temp ==- 1)return 0;
+        if(temp == -1)return 0;
         return temp;
     }
 }
