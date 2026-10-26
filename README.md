@@ -85,6 +85,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0089-gray-code) |
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0007-reverse-integer/) | Medium |
+| [0089-gray-code](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0089-gray-code) |
 | [0836-rectangle-overlap](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
@@ -265,6 +267,7 @@
 | [0022-generate-parentheses](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0257-binary-tree-paths/) | Easy |
 ## Sliding Window
 |  |
