@@ -140,6 +140,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
@@ -162,6 +163,7 @@
 | [0078-subsets](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -236,6 +238,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Hash Table
 |  |
@@ -243,6 +246,7 @@
 | [0001-two-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0012-integer-to-roman) |
+| [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -353,6 +357,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Enumeration
@@ -402,4 +407,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
