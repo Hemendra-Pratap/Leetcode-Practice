@@ -1,21 +1,18 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        int[] freq1 = new int[26];
-        for(char c : s.toCharArray()){
-            freq1[c - 'a']++;
-        }
-        int[] freq2 = new int[26];
-        for(char c : t.toCharArray()){
-            freq2[c - 'a']++;
+        HashMap<Character, Integer> map = new HashMap<>();
+        for(char str : s.toCharArray()){
+            map.put(str, map.getOrDefault(str, 0) +1);
         }
 
-        for(int i=0;i<26;i++){
-            if(freq1[i] != freq2[i]){
-                return false;
-            }
+        for(char st : t.toCharArray()){
+            map.put(st, map.getOrDefault(st, 0) -1);
         }
 
 
-        return true;
+        return map.values().stream().allMatch(value -> value == 0);
+
+
+        
     }
 }
