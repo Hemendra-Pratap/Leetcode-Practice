@@ -189,6 +189,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Two Pointers
 |  |
@@ -268,6 +269,7 @@
 | [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
