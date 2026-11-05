@@ -79,6 +79,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
 ## Bit Manipulation
@@ -146,6 +147,7 @@
 | [0905-sort-array-by-parity](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -174,6 +176,7 @@
 | [0835-image-overlap](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0835-image-overlap) |
 | [0905-sort-array-by-parity](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -200,6 +203,7 @@
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
