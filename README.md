@@ -262,6 +262,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0007-reverse-integer/) | Medium |
 | [0012-integer-to-roman](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0089-gray-code](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0089-gray-code) |
@@ -307,6 +308,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -417,4 +419,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
