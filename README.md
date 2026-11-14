@@ -190,6 +190,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -292,6 +293,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
+| [3364-minimum-positive-sum-subarray](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
 |  |
 | ------- |
