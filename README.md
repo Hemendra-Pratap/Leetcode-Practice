@@ -177,6 +177,7 @@
 | [0905-sort-array-by-parity](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0905-sort-array-by-parity) |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -222,6 +223,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0392-is-subsequence](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
@@ -272,6 +274,7 @@
 | [0836-rectangle-overlap](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1492-the-kth-factor-of-n](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1492-the-kth-factor-of-n/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
@@ -364,6 +367,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
