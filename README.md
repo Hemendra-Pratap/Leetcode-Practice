@@ -130,6 +130,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -361,6 +362,7 @@
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
