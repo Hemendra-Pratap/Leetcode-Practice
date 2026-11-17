@@ -170,6 +170,7 @@
 | [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0654-maximum-binary-tree](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0665-non-decreasing-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0665-non-decreasing-array/) | Medium |
@@ -258,6 +259,7 @@
 | [0012-integer-to-roman](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2540-minimum-common-value/) | Easy |
@@ -369,6 +371,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
