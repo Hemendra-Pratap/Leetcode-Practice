@@ -133,6 +133,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Hash Function
