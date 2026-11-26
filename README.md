@@ -287,6 +287,7 @@
 | [2396-strictly-palindromic-number](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2591-distribute-money-to-maximum-children) |
+| [3360-stone-removal-game](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -375,6 +376,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Hemendra-Pratap/Leetcode-Practice/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Prefix Sum
